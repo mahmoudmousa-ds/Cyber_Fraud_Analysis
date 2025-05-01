@@ -7,7 +7,7 @@
 ---
 
 ## Objective  
-
+![alt text](<network graph/basic_network.png>)
 To identify user accounts associated with a known compromised device or identity, analyze the connections, and present clear, actionable insights.
 
 ---
